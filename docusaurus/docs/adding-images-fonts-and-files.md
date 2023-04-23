@@ -31,7 +31,7 @@ This works in CSS too:
 
 ```css
 .Logo {
-  background-image: url(./logo.png);
+  background-image: url("./logo.png");
 }
 ```
 
